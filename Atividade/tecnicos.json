@@ -1,0 +1,57 @@
+[
+    {
+        "ID Técnico": "T001",
+        "Nome": "Técnico 1",
+        "Especialidade": "Rede"
+    },
+    {
+        "ID Técnico": "T002",
+        "Nome": "Técnico 2",
+        "Especialidade": "Rede"
+    },
+    {
+        "ID Técnico": "T003",
+        "Nome": "Técnico 3",
+        "Especialidade": "Rede"
+    },
+    {
+        "ID Técnico": "T004",
+        "Nome": "Técnico 4",
+        "Especialidade": "Software"
+    },
+    {
+        "ID Técnico": "T005",
+        "Nome": "Técnico 5",
+        "Especialidade": "Rede"
+    },
+    {
+        "ID Técnico": "T006",
+        "Nome": "Técnico 6",
+        "Especialidade": "Rede"
+    },
+    {
+        "ID Técnico": "T007",
+        "Nome": "Técnico 7",
+        "Especialidade": "Rede"
+    },
+    {
+        "ID Técnico": "T008",
+        "Nome": "Técnico 8",
+        "Especialidade": "Software"
+    },
+    {
+        "ID Técnico": "T009",
+        "Nome": "Técnico 9",
+        "Especialidade": "Software"
+    },
+    {
+        "ID Técnico": "T010",
+        "Nome": "Técnico 10",
+        "Especialidade": "Hardware"
+    },
+    {
+        "ID Técnico": "T011",
+        "Nome": "Técnico 11",
+        "Especialidade": "Hardware"
+    }
+]
