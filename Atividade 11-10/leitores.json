@@ -1,0 +1,82 @@
+[
+    {
+        "id leitor": "R001",
+        "nome": "leitor 1",
+        "faixa etária": "Adolescente"
+    },
+    {
+        "id leitor": "R002",
+        "nome": "LEITOR 2",
+        "faixa etária": "Adolescente"
+    },
+    {
+        "id leitor": "R003",
+        "nome": "leitor 3",
+        "faixa etária": "sênior"
+    },
+    {
+        "id leitor": "R004",
+        "nome": "LEITOR 4",
+        "faixa etária": "sênior"
+    },
+    {
+        "id leitor": "R005",
+        "nome": "leitor 5",
+        "faixa etária": "adulto"
+    },
+    {
+        "id leitor": "R006",
+        "nome": "LEITOR 6",
+        "faixa etária": "adulto"
+    },
+    {
+        "id leitor": "R007",
+        "nome": "leitor 7",
+        "faixa etária": "sênior"
+    },
+    {
+        "id leitor": "R008",
+        "nome": "LEITOR 8",
+        "faixa etária": "adulto"
+    },
+    {
+        "id leitor": "R009",
+        "nome": "leitor 9",
+        "faixa etária": "adulto"
+    },
+    {
+        "id leitor": "R010",
+        "nome": "LEITOR 10",
+        "faixa etária": "sênior"
+    },
+    {
+        "id leitor": "R011",
+        "nome": "leitor 11",
+        "faixa etária": "sênior"
+    },
+    {
+        "id leitor": "R012",
+        "nome": "LEITOR 12",
+        "faixa etária": "sênior"
+    },
+    {
+        "id leitor": "R013",
+        "nome": "leitor 13",
+        "faixa etária": "adulto"
+    },
+    {
+        "id leitor": "R014",
+        "nome": "LEITOR 14",
+        "faixa etária": "adulto"
+    },
+    {
+        "id leitor": "R015",
+        "nome": "leitor 15",
+        "faixa etária": "adulto"
+    },
+    {
+        "id leitor": "R004",
+        "nome": "LEITOR 4",
+        "faixa etária": "sênior"
+    }
+]
